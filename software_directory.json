@@ -1,0 +1,377 @@
+[
+  {
+    "name": "LearnPath LMS",
+    "url": "https://www.learnpathlms.example.com",
+    "tagline": "A full-featured learning management system for delivering, tracking, and reporting on online coursework.",
+    "content": "LearnPath LMS provides course hosting, grade tracking, assignment management, and SCORM-compatible content delivery for staff and students across all grade levels. Integrates with Clever for automatic roster sync.",
+    "categories": [
+      "DPA Active",
+      "Paid by District",
+      "Clever",
+      "Instructional",
+      "LMS"
+    ],
+    "logo": "",
+    "featured": true
+  },
+  {
+    "name": "BenchmarkIQ",
+    "url": "https://www.benchmarkiq.example.com",
+    "tagline": "A universal screening and progress monitoring platform for reading and math across K-8.",
+    "content": "BenchmarkIQ provides research-validated assessments for early literacy and numeracy, with automated scoring, growth reports, and intervention grouping suggestions. Supports both individual and whole-class administration.",
+    "categories": [
+      "DPA Active",
+      "Free Application",
+      "assessment",
+      "Math",
+      "ELA"
+    ],
+    "logo": "",
+    "featured": true
+  },
+  {
+    "name": "AdaptMath",
+    "url": "https://www.adaptmath.example.com",
+    "tagline": "An adaptive math practice and instruction tool for students in grades K-8.",
+    "content": "AdaptMath offers adaptive practice problems, instructional video lessons, and real-time progress dashboards for teachers. Aligns to state standards and provides detailed strand-level reports.",
+    "categories": [
+      "DPA Active",
+      "Paid by School",
+      "ClassLink",
+      "Math",
+      "Instructional"
+    ],
+    "logo": "",
+    "featured": true
+  },
+  {
+    "name": "PhonicsFirst",
+    "url": "https://www.phonicsfirst.example.com",
+    "tagline": "A structured literacy program with phonics-based reading activities for early elementary students.",
+    "content": "PhonicsFirst follows a systematic, explicit phonics sequence aligned to the science of reading. Includes decodable texts, word work activities, and fluency passages for grades K-2.",
+    "categories": [
+      "DPA Active",
+      "Paid by School",
+      "Clever",
+      "ELA",
+      "Instructional"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "ClassroomCompass",
+    "url": "https://www.classroomcompass.example.com",
+    "tagline": "A behavior management and parent communication platform connecting teachers, students, and families.",
+    "content": "ClassroomCompass enables teachers to log behavior data, share positive notes home, and track trends over time. Parents receive real-time updates via a mobile app.",
+    "categories": [
+      "DPA Not on File",
+      "Free Application",
+      "behavior",
+      "communication",
+      "parental-consent"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "InsightDash",
+    "url": "https://www.insightdash.example.com",
+    "tagline": "A student data and analytics dashboard giving administrators at-a-glance views of enrollment, attendance, and achievement.",
+    "content": "InsightDash aggregates data from your SIS, assessment platforms, and attendance systems to provide real-time analytics dashboards. Includes drill-down by school, grade, subgroup, and teacher. Staff use only.",
+    "categories": [
+      "DPA Active",
+      "Paid by District",
+      "Clever",
+      "staff only",
+      "SIS",
+      "data"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "SketchPad Studio",
+    "url": "https://www.sketchpadstudio.example.com",
+    "tagline": "A browser-based digital art and design tool for student creative projects.",
+    "content": "SketchPad Studio requires no account and works in any modern browser. Students can create illustrations, animate scenes, and export their work as PNG or GIF files.",
+    "categories": [
+      "DPA Not on File",
+      "Free Application",
+      "art",
+      "Instructional",
+      "no account required"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "SafeExam Browser",
+    "url": "https://www.safeexambrowser.example.com",
+    "tagline": "A secure browser and lockdown platform for administering standardized and benchmark tests.",
+    "content": "SafeExam Browser locks down the testing environment by disabling system functions, restricting navigation, and logging test events. Compatible with state assessment vendors and district benchmark systems.",
+    "categories": [
+      "DPA Active",
+      "Paid by District",
+      "assessment",
+      "testing",
+      "state testing",
+      "staff only"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "HelpDesk Pro",
+    "url": "https://www.helpdeskpro.example.com",
+    "tagline": "An IT helpdesk and asset management platform for school technology departments.",
+    "content": "HelpDesk Pro provides ticket tracking, device inventory management, and a self-service portal for staff. Integrates with Active Directory for automated user provisioning and supports QR-code asset tagging.",
+    "categories": [
+      "DPA Refused by Vendor",
+      "Paid by District",
+      "staff only",
+      "IT"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "StreamLearn",
+    "url": "https://www.streamlearn.example.com",
+    "tagline": "A curated video-based instructional library covering core academic subjects for grades 3-12.",
+    "content": "StreamLearn offers thousands of standards-aligned video lessons, accompanying quizzes, and teacher guides. Teachers can assign specific videos and track completion rates from a dashboard.",
+    "categories": [
+      "DPA Active",
+      "Free Application",
+      "Instructional",
+      "video",
+      "parental-consent",
+      "#New"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "EduWrite",
+    "url": "https://www.eduwrite.example.com",
+    "tagline": "An AI-assisted writing and revision tool that helps students develop strong writing skills.",
+    "content": "EduWrite guides students through the writing process with structured graphic organizers, sentence-level feedback, and revision checklists. Teachers can view drafts, leave comments, and track revision history.",
+    "categories": [
+      "DPA Active",
+      "Paid by School",
+      "ClassLink",
+      "ELA",
+      "Instructional"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "VirtualSciLab",
+    "url": "https://www.virtualscilab.example.com",
+    "tagline": "Interactive virtual science simulations for middle and high school lab investigations.",
+    "content": "VirtualSciLab includes over 200 virtual experiments covering physics, chemistry, biology, and earth science. Students collect data, graph results, and submit lab reports within the platform. No physical materials required.",
+    "categories": [
+      "DPA Active",
+      "Paid by District",
+      "Clever",
+      "Science",
+      "Instructional"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "LinguaQuest",
+    "url": "https://www.linguaquest.example.com",
+    "tagline": "A game-based language learning platform supporting Spanish, French, Mandarin, and more.",
+    "content": "LinguaQuest uses spaced repetition, speaking exercises, and story-based units to build vocabulary and conversational skills. Available for grades 3-12 and supports 8 world languages.",
+    "categories": [
+      "DPA Active",
+      "Paid by School",
+      "World Languages",
+      "Instructional",
+      "account-required"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "TimerBoard",
+    "url": "https://www.timerboard.example.com",
+    "tagline": "A simple, projectable classroom timer and agenda tool for managing transitions and routines.",
+    "content": "TimerBoard runs in any browser and requires no account. Features include countdown timers, random student pickers, noise level meters, and a daily agenda display. Popular for classroom management.",
+    "categories": [
+      "DPA Not on File",
+      "Free Application",
+      "no account required",
+      "classroom management"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "FamilyLink",
+    "url": "https://www.familylink.example.com",
+    "tagline": "A parent and guardian communication portal integrated with your SIS for real-time updates.",
+    "content": "FamilyLink provides parents with access to grades, attendance, assignments, and school announcements in a single portal. Supports push notifications, multi-language display, and two-way messaging with teachers.",
+    "categories": [
+      "DPA Active",
+      "Paid by District",
+      "Clever",
+      "communication",
+      "parental-consent"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "DigitalBookroom",
+    "url": "https://www.digitalbookroom.example.com",
+    "tagline": "A leveled digital book collection with over 10,000 titles for independent and guided reading.",
+    "content": "DigitalBookroom offers decodable readers, leveled fiction and non-fiction, and audiobook options for students in grades K-8. Teachers can assign books by reading level, topic, or genre and monitor reading activity.",
+    "categories": [
+      "DPA Active",
+      "Paid by District",
+      "ClassLink",
+      "ELA",
+      "Instructional"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "CodeSpark Jr.",
+    "url": "https://www.codespark-jr.example.com",
+    "tagline": "A visual block-based coding platform that introduces computational thinking for grades K-5.",
+    "content": "CodeSpark Jr. uses puzzle-based activities, animated characters, and project creation to build foundational coding skills without requiring students to read. Includes a teacher dashboard for progress monitoring and class management.",
+    "categories": [
+      "DPA Active",
+      "Paid by School",
+      "Computer Science",
+      "Instructional",
+      "account-required"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "WellnessCheck",
+    "url": "https://www.wellnesscheck.example.com",
+    "tagline": "A daily student social-emotional check-in tool that surfaces wellbeing trends for counselors.",
+    "content": "WellnessCheck presents students with a brief daily pulse survey on mood, sense of belonging, and readiness to learn. Counselors and administrators can view aggregated trends and receive alerts for students flagged as at-risk.",
+    "categories": [
+      "DPA Active",
+      "Paid by District",
+      "staff only",
+      "SEL",
+      "data"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "NotifyNow",
+    "url": "https://www.notifynow.example.com",
+    "tagline": "A mass notification system for emergency alerts, school announcements, and event reminders.",
+    "content": "NotifyNow delivers messages via phone, SMS, email, and app push notification simultaneously. Supports multilingual auto-translation, two-way SMS, and detailed delivery reporting. Integrates with SIS for current contact data.",
+    "categories": [
+      "DPA Active",
+      "Paid by District",
+      "staff only",
+      "communication"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "FormForge",
+    "url": "https://www.formforge.example.com",
+    "tagline": "A flexible form and survey builder for assessments, registrations, field trip permission slips, and more.",
+    "content": "FormForge allows staff to create forms with branching logic, file upload fields, and electronic signature capture. Responses are automatically organized into spreadsheets and can trigger email notifications.",
+    "categories": [
+      "DPA Active",
+      "Free Application",
+      "staff only",
+      "assessment",
+      "no account required"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "GeoQuest",
+    "url": "https://www.geoquest.example.com",
+    "tagline": "An interactive map-based geography tool that builds spatial thinking and world knowledge.",
+    "content": "GeoQuest guides students through map challenges, country identification activities, and geographic data explorations. Suitable for grades 4-12 and aligned to social studies standards for regions, cultures, and physical geography.",
+    "categories": [
+      "DPA Not on File",
+      "Free Application",
+      "Social Studies",
+      "Instructional",
+      "no account required"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "NoteWorks Music",
+    "url": "https://www.noteworks.example.com",
+    "tagline": "A music theory and ear-training platform for elementary and middle school music classes.",
+    "content": "NoteWorks Music covers note reading, rhythm, scales, and listening exercises with game-based activities and a virtual keyboard. Supports both general music and beginning band or choir programs.",
+    "categories": [
+      "DPA Active",
+      "Paid by School",
+      "Fine Arts",
+      "Instructional",
+      "account-required"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "SpellingPath",
+    "url": "https://www.spellingpath.example.com",
+    "tagline": "A differentiated spelling and vocabulary program aligned to word study sequences for grades 1-8.",
+    "content": "SpellingPath provides placement-based word lists, multi-sensory practice activities, and weekly assessments. Teachers can customize lists by student, track mastery over time, and generate progress reports for parent conferences.",
+    "categories": [
+      "DPA Active",
+      "Paid by School",
+      "ClassLink",
+      "ELA",
+      "Instructional"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "ReadingRewards",
+    "url": "https://www.readingrewards.example.com",
+    "tagline": "A reading motivation and accountability program with quizzes and incentive tracking for grades 1-8.",
+    "content": "ReadingRewards lets students log books they have read and take short comprehension quizzes to earn points. Teachers and librarians can monitor reading volume, quiz accuracy, and award certificates or privileges for milestones.",
+    "categories": [
+      "DPA Expired",
+      "Paid by School",
+      "ELA",
+      "account-required"
+    ],
+    "logo": "",
+    "featured": false
+  },
+  {
+    "name": "ProjectHub",
+    "url": "https://www.projecthub.example.com",
+    "tagline": "A collaborative project management workspace for student teams doing research and presentation projects.",
+    "content": "ProjectHub provides shared task boards, document co-editing, file storage, and a teacher review workflow. Designed to mirror workplace collaboration tools while keeping student data private and teacher-supervised.",
+    "categories": [
+      "DPA Active",
+      "Free Application",
+      "Clever",
+      "Instructional",
+      "account-required",
+      "#New"
+    ],
+    "logo": "",
+    "featured": false
+  }
+]

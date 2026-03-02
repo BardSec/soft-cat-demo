@@ -1,0 +1,14 @@
+services:
+  catalog:
+    build: .
+    container_name: software-catalog-demo
+    restart: unless-stopped
+    ports:
+      - "${PORT:-5000}:5000"
+    volumes:
+      - catalog_data:/app/instance
+    environment:
+      - DATABASE_URL=sqlite:////app/instance/catalog.db
+
+volumes:
+  catalog_data:
